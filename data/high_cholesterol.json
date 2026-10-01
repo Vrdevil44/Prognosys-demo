@@ -1,0 +1,583 @@
+{
+ "participant_id": 130379,
+ "report": {
+  "participant_id": 130379,
+  "biomarkers": [
+   {
+    "name": "LBXWBCSI",
+    "description": "White blood cell count",
+    "unit": "10^3/\u03bcL",
+    "value": 6.3,
+    "status": "normal",
+    "message": "In a healthy range (4.5-11.0 10^3/\u03bcL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXHGB",
+    "description": "Hemoglobin",
+    "unit": "g/dL",
+    "value": 15.2,
+    "status": "normal",
+    "message": "In a healthy range (13.5-17.5 g/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXHCT",
+    "description": "Hematocrit",
+    "unit": "%",
+    "value": 43.9,
+    "status": "normal",
+    "message": "In a healthy range (41.0-50.0 %). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXPLTSI",
+    "description": "Platelet count",
+    "unit": "10^3/\u03bcL",
+    "value": 221.0,
+    "status": "normal",
+    "message": "In a healthy range (150-450 10^3/\u03bcL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXRBCSI",
+    "description": "Red blood cell count",
+    "unit": "10^6/\u03bcL",
+    "value": 4.59,
+    "status": "normal",
+    "message": "In a healthy range (4.5-5.9 10^6/\u03bcL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXGLU",
+    "description": "Fasting glucose",
+    "unit": "mg/dL",
+    "value": 99.0,
+    "status": "normal",
+    "message": "In a healthy range (70-99 mg/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXGH",
+    "description": "Glycated hemoglobin",
+    "unit": "%",
+    "value": 5.6,
+    "status": "normal",
+    "message": "In a healthy range (4.0-5.6 %). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBDHDD",
+    "description": "HDL cholesterol",
+    "unit": "mg/dL",
+    "value": 60.0,
+    "status": "normal",
+    "message": "In a healthy range (40-60 mg/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXTC",
+    "description": "Total cholesterol",
+    "unit": "mg/dL",
+    "value": 214.0,
+    "status": "high",
+    "message": "A touch higher than ideal (125-200 mg/dL). Favor fiber\u2011rich foods and unsaturated fats to nudge it down."
+   },
+   {
+    "name": "LBXTST",
+    "description": "Testosterone",
+    "unit": "ng/dL",
+    "value": 437.0,
+    "status": "normal",
+    "message": "In a healthy range (300-1000 ng/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXEST",
+    "description": "Estradiol",
+    "unit": "pg/mL",
+    "value": 25.2,
+    "status": "normal",
+    "message": "In a healthy range (10-50 pg/mL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXHSCRP",
+    "description": "C-reactive protein",
+    "unit": "mg/L",
+    "value": 2.03,
+    "status": "normal",
+    "message": "In a healthy range (0-3 mg/L). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXAGP",
+    "description": "Alpha-1-acid glycoprotein",
+    "unit": "g/L",
+    "value": 0.7515000000000001,
+    "status": "normal",
+    "message": "In a healthy range (0.5-1.2 g/L). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXBPB",
+    "description": "Lead",
+    "unit": "\u03bcg/dL",
+    "value": 2.04,
+    "status": "normal",
+    "message": "In a healthy range (0-5 \u03bcg/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXBCD",
+    "description": "Cadmium",
+    "unit": "\u03bcg/L",
+    "value": 0.313,
+    "status": "normal",
+    "message": "In a healthy range (0-0.5 \u03bcg/L). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXTHG",
+    "description": "Mercury",
+    "unit": "\u03bcg/L",
+    "value": 9.64,
+    "status": "high",
+    "message": "Slightly above the reference (0-5 \u03bcg/L). Review possible exposure sources and recheck as advised."
+   }
+  ],
+  "abnormal_biomarkers": [
+   {
+    "name": "LBXTC",
+    "description": "Total cholesterol",
+    "value": 214.0,
+    "unit": "mg/dL",
+    "status": "high",
+    "message": "Above normal range (125-200 mg/dL)",
+    "category": "LIPIDS"
+   },
+   {
+    "name": "LBXTHG",
+    "description": "Mercury",
+    "value": 9.64,
+    "unit": "\u03bcg/L",
+    "status": "high",
+    "message": "Above normal range (0-5 \u03bcg/L)",
+    "category": "METALS"
+   }
+  ],
+  "recommendations": [
+   "Consider lifestyle changes to improve cholesterol levels, including:",
+   "  - Increasing physical activity",
+   "  - Reducing saturated fat intake",
+   "  - Increasing fiber consumption",
+   "Elevated heavy metal levels detected. Consider:",
+   "  - Consulting an environmental health specialist",
+   "  - Reviewing potential exposure sources",
+   "  - Discussing detoxification strategies with your healthcare provider"
+  ],
+  "correlations": {},
+  "focus_areas": [
+   {
+    "goal": "Optimize cholesterol balance",
+    "biomarker": "LBXTC",
+    "status": "high",
+    "reason": "Above normal range (125-200 mg/dL)",
+    "severity": 2
+   },
+   {
+    "goal": "Reduce heavy metal exposure (mercury)",
+    "biomarker": "LBXTHG",
+    "status": "high",
+    "reason": "Above normal range (0-5 \u03bcg/L)",
+    "severity": 2
+   }
+  ]
+ },
+ "narrative": null,
+ "prognosis": "Hello Participant SEQN 130379,\n\nA few results sit outside the reference range: Total cholesterol, Mercury.\n\nSuggested focus:\n1. Optimize cholesterol balance\n2. Reduce heavy metal exposure (mercury)\n\nThis is general information from public NHANES data, not medical advice.",
+ "meal_plan": {
+  "meal_plan": [
+   {
+    "day": 1,
+    "breakfast": {
+     "name": "Steel-cut oats with berries and walnuts",
+     "ingredients": [
+      "steel-cut oats",
+      "blueberries",
+      "walnuts",
+      "cinnamon"
+     ],
+     "instructions": "Simmer oats; top with berries and walnuts."
+    },
+    "lunch": {
+     "name": "Lentil and vegetable soup with salad",
+     "ingredients": [
+      "lentils",
+      "carrot",
+      "celery",
+      "tomato",
+      "mixed greens",
+      "olive oil"
+     ],
+     "instructions": "Simmer lentils with vegetables; serve with salad."
+    },
+    "dinner": {
+     "name": "Baked cod with roasted vegetables",
+     "ingredients": [
+      "cod",
+      "zucchini",
+      "cherry tomatoes",
+      "olive oil",
+      "lemon"
+     ],
+     "instructions": "Roast cod and vegetables together."
+    },
+    "snacks": [
+     {
+      "name": "Apple with almond butter",
+      "ingredients": [
+       "apple",
+       "almond butter"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 2,
+    "breakfast": {
+     "name": "Smoked salmon on rye with avocado",
+     "ingredients": [
+      "smoked salmon",
+      "rye bread",
+      "avocado",
+      "lemon"
+     ],
+     "instructions": "Mash avocado on rye; add salmon and lemon."
+    },
+    "lunch": {
+     "name": "Grilled chicken quinoa bowl",
+     "ingredients": [
+      "chicken breast",
+      "quinoa",
+      "cucumber",
+      "cherry tomatoes",
+      "olive oil"
+     ],
+     "instructions": "Grill chicken; serve over quinoa with vegetables."
+    },
+    "dinner": {
+     "name": "Baked salmon, quinoa and broccoli",
+     "ingredients": [
+      "salmon",
+      "quinoa",
+      "broccoli",
+      "lemon",
+      "olive oil"
+     ],
+     "instructions": "Bake salmon; steam broccoli; cook quinoa."
+    },
+    "snacks": [
+     {
+      "name": "Handful of walnuts and orange",
+      "ingredients": [
+       "walnuts",
+       "orange"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 3,
+    "breakfast": {
+     "name": "Overnight oats with flax and apple",
+     "ingredients": [
+      "rolled oats",
+      "flaxseed",
+      "apple",
+      "milk",
+      "cinnamon"
+     ],
+     "instructions": "Soak oats overnight in milk; top with apple."
+    },
+    "lunch": {
+     "name": "Chickpea and spinach salad with lemon",
+     "ingredients": [
+      "chickpeas",
+      "spinach",
+      "red onion",
+      "lemon",
+      "olive oil"
+     ],
+     "instructions": "Toss everything together."
+    },
+    "dinner": {
+     "name": "Chicken and vegetable sheet-pan dinner",
+     "ingredients": [
+      "chicken thigh",
+      "sweet potato",
+      "Brussels sprouts",
+      "olive oil"
+     ],
+     "instructions": "Roast everything on one pan."
+    },
+    "snacks": [
+     {
+      "name": "Hummus with carrot sticks",
+      "ingredients": [
+       "hummus",
+       "carrots"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 4,
+    "breakfast": {
+     "name": "Avocado toast with tomato and seeds",
+     "ingredients": [
+      "whole-grain bread",
+      "avocado",
+      "tomato",
+      "pumpkin seeds"
+     ],
+     "instructions": "Mash avocado on toast; top with tomato and seeds."
+    },
+    "lunch": {
+     "name": "Tuna-white bean salad",
+     "ingredients": [
+      "light canned tuna",
+      "white beans",
+      "arugula",
+      "olive oil",
+      "lemon"
+     ],
+     "instructions": "Combine and dress."
+    },
+    "dinner": {
+     "name": "Lentil and spinach curry with brown rice",
+     "ingredients": [
+      "lentils",
+      "spinach",
+      "tomato",
+      "curry spices",
+      "brown rice"
+     ],
+     "instructions": "Simmer lentils with spices and spinach; serve with rice."
+    },
+    "snacks": [
+     {
+      "name": "Greek yogurt with berries",
+      "ingredients": [
+       "Greek yogurt",
+       "berries"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 5,
+    "breakfast": {
+     "name": "Veggie omelet with whole-grain toast",
+     "ingredients": [
+      "eggs",
+      "spinach",
+      "tomato",
+      "whole-grain bread"
+     ],
+     "instructions": "Whisk eggs; cook with vegetables; serve with toast."
+    },
+    "lunch": {
+     "name": "Turkey and veggie whole-wheat wrap",
+     "ingredients": [
+      "sliced turkey",
+      "whole-wheat tortilla",
+      "lettuce",
+      "hummus"
+     ],
+     "instructions": "Spread hummus; add turkey and lettuce; roll."
+    },
+    "dinner": {
+     "name": "Tofu and vegetable stir-fry",
+     "ingredients": [
+      "firm tofu",
+      "broccoli",
+      "bell pepper",
+      "brown rice",
+      "soy sauce"
+     ],
+     "instructions": "Pan-fry tofu; stir-fry vegetables; serve over rice."
+    },
+    "snacks": [
+     {
+      "name": "Hard-boiled egg",
+      "ingredients": [
+       "eggs"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 6,
+    "breakfast": {
+     "name": "Greek yogurt parfait with chia",
+     "ingredients": [
+      "Greek yogurt",
+      "chia seeds",
+      "strawberries",
+      "almonds"
+     ],
+     "instructions": "Layer yogurt, chia and fruit; top with almonds."
+    },
+    "lunch": {
+     "name": "Brown rice and black bean bowl",
+     "ingredients": [
+      "brown rice",
+      "black beans",
+      "corn",
+      "avocado",
+      "salsa"
+     ],
+     "instructions": "Warm rice and beans; top with vegetables."
+    },
+    "dinner": {
+     "name": "Lean beef chili with beans",
+     "ingredients": [
+      "lean ground beef",
+      "kidney beans",
+      "tomato",
+      "onion",
+      "chili spices"
+     ],
+     "instructions": "Simmer everything for 30 minutes."
+    },
+    "snacks": [
+     {
+      "name": "Roasted pumpkin seeds",
+      "ingredients": [
+       "pumpkin seeds"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 7,
+    "breakfast": {
+     "name": "Tofu scramble with peppers and kale",
+     "ingredients": [
+      "firm tofu",
+      "bell pepper",
+      "kale",
+      "turmeric",
+      "olive oil"
+     ],
+     "instructions": "Crumble tofu; saute with vegetables and turmeric."
+    },
+    "lunch": {
+     "name": "Roasted vegetable and hummus plate",
+     "ingredients": [
+      "zucchini",
+      "bell pepper",
+      "hummus",
+      "whole-grain pita"
+     ],
+     "instructions": "Roast vegetables; serve with hummus and pita."
+    },
+    "dinner": {
+     "name": "Turkey meatballs with zucchini noodles",
+     "ingredients": [
+      "ground turkey",
+      "zucchini",
+      "tomato sauce",
+      "garlic"
+     ],
+     "instructions": "Bake meatballs; toss with zucchini noodles and sauce."
+    },
+    "snacks": [
+     {
+      "name": "Edamame with sea salt",
+      "ingredients": [
+       "edamame"
+      ]
+     }
+    ]
+   }
+  ],
+  "shopping_list": [
+   "steel-cut oats",
+   "blueberries",
+   "walnuts",
+   "cinnamon",
+   "lentils",
+   "carrot",
+   "celery",
+   "tomato",
+   "mixed greens",
+   "olive oil",
+   "cod",
+   "zucchini",
+   "cherry tomatoes",
+   "lemon",
+   "apple",
+   "almond butter",
+   "smoked salmon",
+   "rye bread",
+   "avocado",
+   "chicken breast",
+   "quinoa",
+   "cucumber",
+   "salmon",
+   "broccoli",
+   "orange",
+   "rolled oats",
+   "flaxseed",
+   "milk",
+   "chickpeas",
+   "spinach",
+   "red onion",
+   "chicken thigh",
+   "sweet potato",
+   "Brussels sprouts",
+   "hummus",
+   "carrots",
+   "whole-grain bread",
+   "pumpkin seeds",
+   "light canned tuna",
+   "white beans",
+   "arugula",
+   "curry spices",
+   "brown rice",
+   "Greek yogurt",
+   "berries",
+   "eggs",
+   "sliced turkey",
+   "whole-wheat tortilla",
+   "lettuce",
+   "firm tofu",
+   "bell pepper",
+   "soy sauce",
+   "chia seeds",
+   "strawberries",
+   "almonds",
+   "black beans",
+   "corn",
+   "salsa",
+   "lean ground beef",
+   "kidney beans",
+   "onion",
+   "chili spices",
+   "kale",
+   "turmeric",
+   "whole-grain pita",
+   "ground turkey",
+   "tomato sauce",
+   "garlic",
+   "edamame"
+  ],
+  "recommendations": [
+   "Choose unsaturated fats, oats, beans and nuts",
+   "Vary protein sources and rinse produce and rice well"
+  ],
+  "restrictions": [
+   "Limit saturated and trans fats (fatty/processed meats, fried food)",
+   "Limit high-mercury fish (swordfish, king mackerel, shark)"
+  ],
+  "rationale": [
+   "Cholesterol out of range: fiber-rich, unsaturated-fat meals",
+   "Elevated heavy-metal marker: avoid high-mercury fish, vary foods"
+  ],
+  "meal_analysis": "Rule-based plan. Cholesterol out of range: fiber-rich, unsaturated-fat meals; Elevated heavy-metal marker: avoid high-mercury fish, vary foods.",
+  "ai_enhanced": false
+ },
+ "ai_enhanced": false,
+ "status": "success",
+ "persona": "high_cholesterol",
+ "title": "High total cholesterol",
+ "description": "Total cholesterol above range, glucose normal."
+}
