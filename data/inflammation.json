@@ -1,0 +1,593 @@
+{
+ "participant_id": 130418,
+ "report": {
+  "participant_id": 130418,
+  "biomarkers": [
+   {
+    "name": "LBXWBCSI",
+    "description": "White blood cell count",
+    "unit": "10^3/\u03bcL",
+    "value": 8.1,
+    "status": "normal",
+    "message": "In a healthy range (4.5-11.0 10^3/\u03bcL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXHGB",
+    "description": "Hemoglobin",
+    "unit": "g/dL",
+    "value": 13.4,
+    "status": "low",
+    "message": "Slightly under the sweet spot (13.5-17.5 g/dL). Iron\u2011rich foods and follow\u2011up as needed can help."
+   },
+   {
+    "name": "LBXHCT",
+    "description": "Hematocrit",
+    "unit": "%",
+    "value": 40.3,
+    "status": "low",
+    "message": "Slightly under the sweet spot (41.0-50.0 %). Iron\u2011rich foods and follow\u2011up as needed can help."
+   },
+   {
+    "name": "LBXPLTSI",
+    "description": "Platelet count",
+    "unit": "10^3/\u03bcL",
+    "value": 217.0,
+    "status": "normal",
+    "message": "In a healthy range (150-450 10^3/\u03bcL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXRBCSI",
+    "description": "Red blood cell count",
+    "unit": "10^6/\u03bcL",
+    "value": 4.82,
+    "status": "normal",
+    "message": "In a healthy range (4.5-5.9 10^6/\u03bcL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXGLU",
+    "description": "Fasting glucose",
+    "unit": "mg/dL",
+    "value": 96.0,
+    "status": "normal",
+    "message": "In a healthy range (70-99 mg/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXGH",
+    "description": "Glycated hemoglobin",
+    "unit": "%",
+    "value": 5.6,
+    "status": "normal",
+    "message": "In a healthy range (4.0-5.6 %). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBDHDD",
+    "description": "HDL cholesterol",
+    "unit": "mg/dL",
+    "value": 41.0,
+    "status": "normal",
+    "message": "In a healthy range (40-60 mg/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXTC",
+    "description": "Total cholesterol",
+    "unit": "mg/dL",
+    "value": 155.0,
+    "status": "normal",
+    "message": "In a healthy range (125-200 mg/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXTST",
+    "description": "Testosterone",
+    "unit": "ng/dL",
+    "value": 412.0,
+    "status": "normal",
+    "message": "In a healthy range (300-1000 ng/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXEST",
+    "description": "Estradiol",
+    "unit": "pg/mL",
+    "value": 33.8,
+    "status": "normal",
+    "message": "In a healthy range (10-50 pg/mL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXHSCRP",
+    "description": "C-reactive protein",
+    "unit": "mg/L",
+    "value": 3.14,
+    "status": "high",
+    "message": "Inflammation marker is elevated (0-3 mg/L). Emphasize sleep, stress care, and colorful plants."
+   },
+   {
+    "name": "LBXAGP",
+    "description": "Alpha-1-acid glycoprotein",
+    "unit": "g/L",
+    "value": 0.7515000000000001,
+    "status": "normal",
+    "message": "In a healthy range (0.5-1.2 g/L). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXBPB",
+    "description": "Lead",
+    "unit": "\u03bcg/dL",
+    "value": 0.395,
+    "status": "normal",
+    "message": "In a healthy range (0-5 \u03bcg/dL). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXBCD",
+    "description": "Cadmium",
+    "unit": "\u03bcg/L",
+    "value": 0.222,
+    "status": "normal",
+    "message": "In a healthy range (0-0.5 \u03bcg/L). Keep the routine that\u2019s working for you."
+   },
+   {
+    "name": "LBXTHG",
+    "description": "Mercury",
+    "unit": "\u03bcg/L",
+    "value": 0.73,
+    "status": "normal",
+    "message": "In a healthy range (0-5 \u03bcg/L). Keep the routine that\u2019s working for you."
+   }
+  ],
+  "abnormal_biomarkers": [
+   {
+    "name": "LBXHGB",
+    "description": "Hemoglobin",
+    "value": 13.4,
+    "unit": "g/dL",
+    "status": "low",
+    "message": "Below normal range (13.5-17.5 g/dL)",
+    "category": "CBC"
+   },
+   {
+    "name": "LBXHCT",
+    "description": "Hematocrit",
+    "value": 40.3,
+    "unit": "%",
+    "status": "low",
+    "message": "Below normal range (41.0-50.0 %)",
+    "category": "CBC"
+   },
+   {
+    "name": "LBXHSCRP",
+    "description": "C-reactive protein",
+    "value": 3.14,
+    "unit": "mg/L",
+    "status": "high",
+    "message": "Above normal range (0-3 mg/L)",
+    "category": "INFLAMMATION"
+   }
+  ],
+  "recommendations": [
+   "Consider checking iron levels and incorporating iron-rich foods into your diet.",
+   "Schedule a follow-up with your healthcare provider to discuss potential anemia.",
+   "Elevated inflammation markers suggest considering:",
+   "  - Anti-inflammatory diet",
+   "  - Regular exercise",
+   "  - Stress management techniques"
+  ],
+  "correlations": {},
+  "focus_areas": [
+   {
+    "goal": "Address iron/hemoglobin status",
+    "biomarker": "LBXHGB",
+    "status": "low",
+    "reason": "Below normal range (13.5-17.5 g/dL)",
+    "severity": 2
+   },
+   {
+    "goal": "Improve Hematocrit",
+    "biomarker": "LBXHCT",
+    "status": "low",
+    "reason": "Below normal range (41.0-50.0 %)",
+    "severity": 2
+   },
+   {
+    "goal": "Reduce systemic inflammation",
+    "biomarker": "LBXHSCRP",
+    "status": "high",
+    "reason": "Above normal range (0-3 mg/L)",
+    "severity": 2
+   }
+  ]
+ },
+ "narrative": null,
+ "prognosis": "Hello Participant SEQN 130418,\n\nA few results sit outside the reference range: Hemoglobin, Hematocrit, C-reactive protein.\n\nSuggested focus:\n1. Address iron/hemoglobin status\n2. Improve Hematocrit\n3. Reduce systemic inflammation\n\nThis is general information from public NHANES data, not medical advice.",
+ "meal_plan": {
+  "meal_plan": [
+   {
+    "day": 1,
+    "breakfast": {
+     "name": "Tofu scramble with peppers and kale",
+     "ingredients": [
+      "firm tofu",
+      "bell pepper",
+      "kale",
+      "turmeric",
+      "olive oil"
+     ],
+     "instructions": "Crumble tofu; saute with vegetables and turmeric."
+    },
+    "lunch": {
+     "name": "Chickpea and spinach salad with lemon",
+     "ingredients": [
+      "chickpeas",
+      "spinach",
+      "red onion",
+      "lemon",
+      "olive oil"
+     ],
+     "instructions": "Toss everything together."
+    },
+    "dinner": {
+     "name": "Lentil and spinach curry with brown rice",
+     "ingredients": [
+      "lentils",
+      "spinach",
+      "tomato",
+      "curry spices",
+      "brown rice"
+     ],
+     "instructions": "Simmer lentils with spices and spinach; serve with rice."
+    },
+    "snacks": [
+     {
+      "name": "Handful of walnuts and orange",
+      "ingredients": [
+       "walnuts",
+       "orange"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 2,
+    "breakfast": {
+     "name": "Veggie omelet with whole-grain toast",
+     "ingredients": [
+      "eggs",
+      "spinach",
+      "tomato",
+      "whole-grain bread"
+     ],
+     "instructions": "Whisk eggs; cook with vegetables; serve with toast."
+    },
+    "lunch": {
+     "name": "Lentil and vegetable soup with salad",
+     "ingredients": [
+      "lentils",
+      "carrot",
+      "celery",
+      "tomato",
+      "mixed greens",
+      "olive oil"
+     ],
+     "instructions": "Simmer lentils with vegetables; serve with salad."
+    },
+    "dinner": {
+     "name": "Sardine and tomato whole-wheat pasta",
+     "ingredients": [
+      "sardines",
+      "whole-wheat pasta",
+      "tomato",
+      "garlic",
+      "parsley"
+     ],
+     "instructions": "Toss cooked pasta with sardines and tomato."
+    },
+    "snacks": [
+     {
+      "name": "Roasted pumpkin seeds",
+      "ingredients": [
+       "pumpkin seeds"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 3,
+    "breakfast": {
+     "name": "Smoked salmon on rye with avocado",
+     "ingredients": [
+      "smoked salmon",
+      "rye bread",
+      "avocado",
+      "lemon"
+     ],
+     "instructions": "Mash avocado on rye; add salmon and lemon."
+    },
+    "lunch": {
+     "name": "Brown rice and black bean bowl",
+     "ingredients": [
+      "brown rice",
+      "black beans",
+      "corn",
+      "avocado",
+      "salsa"
+     ],
+     "instructions": "Warm rice and beans; top with vegetables."
+    },
+    "dinner": {
+     "name": "Baked salmon, quinoa and broccoli",
+     "ingredients": [
+      "salmon",
+      "quinoa",
+      "broccoli",
+      "lemon",
+      "olive oil"
+     ],
+     "instructions": "Bake salmon; steam broccoli; cook quinoa."
+    },
+    "snacks": [
+     {
+      "name": "Apple with almond butter",
+      "ingredients": [
+       "apple",
+       "almond butter"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 4,
+    "breakfast": {
+     "name": "Fortified cereal with milk and orange",
+     "ingredients": [
+      "iron-fortified cereal",
+      "milk",
+      "orange"
+     ],
+     "instructions": "Serve cereal with milk and fresh orange."
+    },
+    "lunch": {
+     "name": "Beef and broccoli stir-fry with brown rice",
+     "ingredients": [
+      "lean beef",
+      "broccoli",
+      "garlic",
+      "ginger",
+      "brown rice"
+     ],
+     "instructions": "Stir-fry beef and broccoli; serve over rice."
+    },
+    "dinner": {
+     "name": "Lean beef chili with beans",
+     "ingredients": [
+      "lean ground beef",
+      "kidney beans",
+      "tomato",
+      "onion",
+      "chili spices"
+     ],
+     "instructions": "Simmer everything for 30 minutes."
+    },
+    "snacks": [
+     {
+      "name": "Greek yogurt with berries",
+      "ingredients": [
+       "Greek yogurt",
+       "berries"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 5,
+    "breakfast": {
+     "name": "Banana-spinach protein smoothie",
+     "ingredients": [
+      "banana",
+      "spinach",
+      "Greek yogurt",
+      "peanut butter"
+     ],
+     "instructions": "Blend until smooth."
+    },
+    "lunch": {
+     "name": "Roasted vegetable and hummus plate",
+     "ingredients": [
+      "zucchini",
+      "bell pepper",
+      "hummus",
+      "whole-grain pita"
+     ],
+     "instructions": "Roast vegetables; serve with hummus and pita."
+    },
+    "dinner": {
+     "name": "Vegetable and bean enchilada bake",
+     "ingredients": [
+      "black beans",
+      "whole-wheat tortilla",
+      "bell pepper",
+      "tomato sauce",
+      "cheese"
+     ],
+     "instructions": "Layer and bake until bubbly."
+    },
+    "snacks": [
+     {
+      "name": "Hummus with carrot sticks",
+      "ingredients": [
+       "hummus",
+       "carrots"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 6,
+    "breakfast": {
+     "name": "Egg and black bean breakfast burrito",
+     "ingredients": [
+      "eggs",
+      "black beans",
+      "whole-wheat tortilla",
+      "salsa"
+     ],
+     "instructions": "Scramble eggs; fill tortilla with beans and salsa."
+    },
+    "lunch": {
+     "name": "Minestrone with whole-grain bread",
+     "ingredients": [
+      "white beans",
+      "tomato",
+      "kale",
+      "whole-wheat pasta",
+      "whole-grain bread"
+     ],
+     "instructions": "Simmer vegetables, beans and pasta in broth."
+    },
+    "dinner": {
+     "name": "Mushroom and chickpea stew",
+     "ingredients": [
+      "mushrooms",
+      "chickpeas",
+      "carrot",
+      "tomato",
+      "thyme"
+     ],
+     "instructions": "Simmer until tender."
+    },
+    "snacks": [
+     {
+      "name": "Hard-boiled egg",
+      "ingredients": [
+       "eggs"
+      ]
+     }
+    ]
+   },
+   {
+    "day": 7,
+    "breakfast": {
+     "name": "Avocado toast with tomato and seeds",
+     "ingredients": [
+      "whole-grain bread",
+      "avocado",
+      "tomato",
+      "pumpkin seeds"
+     ],
+     "instructions": "Mash avocado on toast; top with tomato and seeds."
+    },
+    "lunch": {
+     "name": "Grilled chicken quinoa bowl",
+     "ingredients": [
+      "chicken breast",
+      "quinoa",
+      "cucumber",
+      "cherry tomatoes",
+      "olive oil"
+     ],
+     "instructions": "Grill chicken; serve over quinoa with vegetables."
+    },
+    "dinner": {
+     "name": "Chicken and vegetable sheet-pan dinner",
+     "ingredients": [
+      "chicken thigh",
+      "sweet potato",
+      "Brussels sprouts",
+      "olive oil"
+     ],
+     "instructions": "Roast everything on one pan."
+    },
+    "snacks": [
+     {
+      "name": "Edamame with sea salt",
+      "ingredients": [
+       "edamame"
+      ]
+     }
+    ]
+   }
+  ],
+  "shopping_list": [
+   "firm tofu",
+   "bell pepper",
+   "kale",
+   "turmeric",
+   "olive oil",
+   "chickpeas",
+   "spinach",
+   "red onion",
+   "lemon",
+   "lentils",
+   "tomato",
+   "curry spices",
+   "brown rice",
+   "walnuts",
+   "orange",
+   "eggs",
+   "whole-grain bread",
+   "carrot",
+   "celery",
+   "mixed greens",
+   "sardines",
+   "whole-wheat pasta",
+   "garlic",
+   "parsley",
+   "pumpkin seeds",
+   "smoked salmon",
+   "rye bread",
+   "avocado",
+   "black beans",
+   "corn",
+   "salsa",
+   "salmon",
+   "quinoa",
+   "broccoli",
+   "apple",
+   "almond butter",
+   "iron-fortified cereal",
+   "milk",
+   "lean beef",
+   "ginger",
+   "lean ground beef",
+   "kidney beans",
+   "onion",
+   "chili spices",
+   "Greek yogurt",
+   "berries",
+   "banana",
+   "peanut butter",
+   "zucchini",
+   "hummus",
+   "whole-grain pita",
+   "whole-wheat tortilla",
+   "tomato sauce",
+   "cheese",
+   "carrots",
+   "white beans",
+   "mushrooms",
+   "thyme",
+   "chicken breast",
+   "cucumber",
+   "cherry tomatoes",
+   "chicken thigh",
+   "sweet potato",
+   "Brussels sprouts",
+   "edamame"
+  ],
+  "recommendations": [
+   "Pair iron-rich foods (legumes, greens, lean meat) with vitamin C",
+   "Emphasize colorful plants, omega-3 fish and olive oil"
+  ],
+  "restrictions": [
+   "Avoid tea/coffee with iron-rich meals",
+   "Limit ultra-processed foods and fried food"
+  ],
+  "rationale": [
+   "Low iron-related markers: iron-rich meals with vitamin C",
+   "Elevated inflammation markers: anti-inflammatory pattern"
+  ],
+  "meal_analysis": "Rule-based plan. Low iron-related markers: iron-rich meals with vitamin C; Elevated inflammation markers: anti-inflammatory pattern.",
+  "ai_enhanced": false
+ },
+ "ai_enhanced": false,
+ "status": "success",
+ "persona": "inflammation",
+ "title": "Elevated inflammation",
+ "description": "High-sensitivity CRP above range."
+}

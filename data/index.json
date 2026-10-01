@@ -1,0 +1,32 @@
+[
+ {
+  "id": "high_cholesterol",
+  "title": "High total cholesterol",
+  "description": "Total cholesterol above range, glucose normal.",
+  "participant_id": 130379
+ },
+ {
+  "id": "prediabetic",
+  "title": "Elevated glucose / HbA1c",
+  "description": "Fasting glucose and HbA1c above range.",
+  "participant_id": 130380
+ },
+ {
+  "id": "all_in_range",
+  "title": "Everything in range",
+  "description": "Participant whose analyzed markers are all within reference ranges.",
+  "participant_id": 130394
+ },
+ {
+  "id": "low_iron",
+  "title": "Low hemoglobin",
+  "description": "Hemoglobin below range.",
+  "participant_id": 130402
+ },
+ {
+  "id": "inflammation",
+  "title": "Elevated inflammation",
+  "description": "High-sensitivity CRP above range.",
+  "participant_id": 130418
+ }
+]
